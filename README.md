@@ -1,1 +1,0 @@
-# DirectResult — Mega Results Hub
